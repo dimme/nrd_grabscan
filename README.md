@@ -10,11 +10,11 @@ This script scans a list of domains retrieved from a specified URL to identify "
 
 2. **Setup:**
    - Clone the script.
-    ```
-    git clone https://github.com/dimme/nrd_grabscan.git
-    cd nrd_grabscan
-    chmod +x nrd_grabscan.py
-    ```
+     ```
+     git clone https://github.com/dimme/nrd_grabscan.git
+     cd nrd_grabscan
+     chmod +x nrd_grabscan.py
+     ```
 
 3. **Execution:**
    - Run the script:
